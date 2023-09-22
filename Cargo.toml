@@ -1,0 +1,15 @@
+[package]
+name = "bt"
+version = "0.1.0"
+authors = ["dave"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1"
+lazy_static = "1"
+ndarray = "0.14"
+ndarray-stats = "0.4"
+json = "0.12.4"
+
